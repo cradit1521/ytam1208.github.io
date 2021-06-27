@@ -159,5 +159,6 @@ for (int i = 0; i < Particle_count; i++)
 
 Resampling 과정까지 진행이 완료되었으면 t 초에서의 예측은 끝났다. 하지만 실제로 파티클 필터의 쓰임은 real-time에서 사용을 해야 의미가 있기 때문에 다시 2번으로 돌아가 2,3,4 순서대로 다시 particle들의 위치와 weight들을 Update해준다. 
 
-![Click_video](https://user-images.githubusercontent.com/56625848/123545994-d810a300-d795-11eb-8440-5184c3263b68.MOV)
+![click_point](https://user-images.githubusercontent.com/56625848/123546396-4f930200-d797-11eb-8998-064112839ffa.gif)
+
 
