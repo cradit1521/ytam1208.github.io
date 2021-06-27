@@ -6,8 +6,9 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache_1
-- I'm extremely loyal to my family
+- [2014~2020] SCH University 
+- [2019~] Cogaplex company
+- [2021~] Hanyang University
 
 What else do you need?
 
