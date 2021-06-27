@@ -1,17 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Slowly, but slowly, let's change the world with me. 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Employment and Education:
 
-- [2014~2020] SCH University 
-- [2019~] Cogaplex company
-- [2021~] Hanyang University
+- [2014~2020] SCH University,the Department of Electronic Engineering bachelor's degree
+- [2019~] Cogaplex company,the Person following research & development team
+- [2021~] Hanyang University, Intelligent Robotics master's course
 
 What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My field of research is object tracking.
