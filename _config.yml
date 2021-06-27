@@ -16,8 +16,9 @@ author: Yeon tae min
 navbar-links:
   About Me: "aboutme"
   Resources:
-    # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    # - Learn markdown: "https://www.markdowntutorial.com/"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Machine Learning: ""
+    - Git Blog: "https://ytam1208.github.io/2021-06-27-jekyll%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Github-homepage1"
   # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -31,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+# title-img: "/assets/img/cat.jpeg"
 
 
 # --- Footer social media links --- #
@@ -65,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -81,7 +82,7 @@ share-links-active:
 # url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 8
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true

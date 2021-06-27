@@ -4,6 +4,9 @@ title: Github 블로그 만들기(2)
 subtitle: 
 gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
+cover-img: /assets/img/git_home.jpg
+thumbnail-img: /assets/img/github_icon.png
+share-img: /assets/img/git_home.jpg
 tags: [jekyll, GitHub page]
 comments: true
 ---  
