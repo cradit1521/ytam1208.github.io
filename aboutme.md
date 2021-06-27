@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Slowly but slowly
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Employment and Education:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- [2014 ~ 2020] SCH University 
+- [2019 ~ ] Cogaplex company Person following team Developer
+- [2021 ~ ] Hanyang University 
 
 What else do you need?
 
